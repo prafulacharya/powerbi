@@ -1,0 +1,9 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../praful_git_test_v1.SemanticModel"
+    },
+    "byConnection": null
+  }
+}

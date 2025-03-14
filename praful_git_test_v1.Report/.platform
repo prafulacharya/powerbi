@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "praful_git_test_v1"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "0387d3b4-fb95-4faf-9a9d-63e6a6d0e9d8"
+  }
+}
